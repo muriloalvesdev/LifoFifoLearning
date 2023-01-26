@@ -71,3 +71,7 @@ Exemplo de FIFO:
 - A impressora que processa documentos na ordem em que são enviados para impressão. Isso ocorre porque a fila de impressão é implementada como uma estrutura FIFO, onde o primeiro documento enviado é o primeiro a ser impresso.
 
 - A fila de atendimento de um banco, onde as pessoas são atendidas na ordem em que chegaram. Isso ocorre porque a fila é implementada como uma estrutura FIFO, onde a primeira pessoa a chegar é a primeira a ser atendida.
+
+____________________________________________________________________________________________________________
+
+Espero ter ajudado e caso tenha complementos ou correções para o repositório, fique à vontade para criar uma ISSUE ou Pull Request.
