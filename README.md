@@ -18,7 +18,9 @@ Exemplo de implementação de uma pilha LIFO em Java:
 
 ____________________________________________________________________________________________________________
 
-FIFO (First In, First Out) é uma estrutura de dados que segue a ordem "primeiro a entrar, primeiro a sair". Isso significa que o primeiro elemento adicionado à estrutura é o primeiro a ser removido. Uma classe comum que implementa FIFO é a fila (queue).
+FIFO (First In, First Out)
+-
+FIFO é uma estrutura de dados que segue a ordem "primeiro a entrar, primeiro a sair". Isso significa que o primeiro elemento adicionado à estrutura é o primeiro a ser removido. Uma classe comum que implementa FIFO é a fila (queue).
 
 Exemplo de implementação de uma fila FIFO em Java:
 
